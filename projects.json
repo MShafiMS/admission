@@ -1,5 +1,21 @@
 [
   {
+    "id": "10100",
+    "name": "Motion Diary",
+    "type": "Blog Site",
+    "tools": "Next JS, TailwindCSS, TailwindCSS, Express JS, Mongoose, MongoDB, Quill JS, Firebase",
+    "description": "A full-featured blog application that allows users to view a list of blog posts, read individual blog posts, create new blog posts, and interact with the content using Next.js and React.",
+    "img": "https://i.ibb.co/DPXwwq2/Screen-Shot-Tool-20230614001856.png",
+    "imga": "https://i.ibb.co/qWm149F/Screen-Shot-Tool-20230614002945.png",
+    "imgb": "https://i.ibb.co/PthHVZ4/Screen-Shot-Tool-20230614002718.png",
+    "imgc": "https://i.ibb.co/ryQTv7W/Screen-Shot-Tool-20230614002642.png",
+    "imgd": "https://i.ibb.co/zs57Lk2/Screen-Shot-Tool-20230614003019.png",
+    "imge": "https://i.ibb.co/pZzJqkD/Screen-Shot-Tool-20230614005331.png",
+    "client": "https://github.com/MShafiMS/motion-diary",
+    "server": "https://github.com/MShafiMS/motion-diary/tree/main/backend",
+    "live": "https://motion-diary.vercel.app/"
+  },
+  {
     "id": "10000",
     "name": "Webb School",
     "type": "Educational Technology",
@@ -93,21 +109,6 @@
     "live": "https://lucent-kashata-03ee9c.netlify.app/"
   },
   {
-    "id": "6",
-    "name": "Watch House",
-    "type": "Watch Shop",
-    "tools": "React, React Bootstrap, Rest Api",
-    "description": "It is a Watch Shop. People can buy watch from this shop.",
-    "img": "https://i.ibb.co/KKLs6Lt/8.png",
-    "imga": "https://i.ibb.co/KKLs6Lt/8.png",
-    "imgb": "https://i.ibb.co/KKLs6Lt/8.png",
-    "imgc": "https://i.ibb.co/KKLs6Lt/8.png",
-    "imgd": "https://i.ibb.co/KKLs6Lt/8.png",
-    "imge": "https://i.ibb.co/KKLs6Lt/8.png",
-    "client": "https://github.com/MShafiMS/lucky-one",
-    "live": "https://fluffy-taffy-000b4a.netlify.app/"
-  },
-  {
     "id": "8",
     "name": "Phone Finder",
     "type": "Searching Phone",
@@ -151,35 +152,5 @@
     "imge": "https://i.ibb.co/hHYgtHc/e.png",
     "client": "https://github.com/Porgramming-Hero-web-course/convention-center-MShafiMS-2",
     "live": "https://quirky-wilson-a7f9b6.netlify.app/"
-  },
-  {
-    "id": "11",
-    "name": "Influencer Products",
-    "type": "Gear Shop",
-    "tools": "HTML, CSS",
-    "description": "This is a gear shop website. People can buy necessary gear from this site.",
-    "img": "https://i.ibb.co/M2g6BgT/2.png",
-    "imga": "https://i.ibb.co/stGPbm3/a.png",
-    "imgb": "https://i.ibb.co/5n3cHXt/b.png",
-    "imgc": "https://i.ibb.co/S3ZyHQR/c.png",
-    "imgd": "https://i.ibb.co/hFP41Qp/d.png",
-    "imge": "https://i.ibb.co/hHYgtHc/e.png",
-    "client": "https://github.com/MShafiMS/influencer-gear",
-    "live": "https://mshafims.github.io/influencer-gear/"
-  },
-  {
-    "id": "12",
-    "name": "Portfolio",
-    "type": "Personal Portfolio",
-    "tools": "HTML, CSS",
-    "description": "This is a normal portfolio website.",
-    "img": "https://i.ibb.co/R30MvSM/1.png",
-    "imga": "https://i.ibb.co/stGPbm3/a.png",
-    "imgb": "https://i.ibb.co/5n3cHXt/b.png",
-    "imgc": "https://i.ibb.co/S3ZyHQR/c.png",
-    "imgd": "https://i.ibb.co/hFP41Qp/d.png",
-    "imge": "https://i.ibb.co/hHYgtHc/e.png",
-    "client": "https://github.com/MShafiMS/mission-2022",
-    "live": "https://mshafims.github.io/mission-2022/"
   }
 ]
