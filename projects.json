@@ -1,9 +1,25 @@
 [
   {
+    "id": "11230",
+    "name": "Tasklyn",
+    "type": "Task Management",
+    "tools": "Next JS, TailwindCSS, TailwindCSS, AWS Amplify, TypeScript, GraphQL, Mobx State Tree, AWS Identity Access Management, DynamoDB",
+    "description": "This is a simple Task Management site built using Next.js, Tailwind CSS, Mobx State Tree, and AWS Amplify GraphQL API.",
+    "img": "https://i.ibb.co/L0nhh4q/Screen-Shot-Tool-20230724172641.png",
+    "imga": "https://i.ibb.co/vdrLPGB/Screen-Shot-Tool-20230724172628.png",
+    "imgb": "https://i.ibb.co/t223G94/Screen-Shot-Tool-20230724172555.png",
+    "imgc": "https://i.ibb.co/KFc4VXD/Screen-Shot-Tool-20230724172542.png",
+    "imgd": "https://i.ibb.co/CtPpBtY/Screen-Shot-Tool-20230724172605.png",
+    "imge": "https://i.ibb.co/KWH6TQw/Screen-Shot-Tool-20230724172734.png",
+    "client": "https://github.com/MShafiMS/tasklyn",
+    "server": "https://github.com/MShafiMS/tasklyn/tree/main/amplify",
+    "live": "https://main.d3188mhqzkjmhs.amplifyapp.com/"
+  },
+  {
     "id": "10100",
     "name": "Motion Diary",
     "type": "Blog Site",
-    "tools": "Next JS, TailwindCSS, TailwindCSS, Express JS, Mongoose, MongoDB, Quill JS, Firebase",
+    "tools": "Next JS, TailwindCSS, Express JS, Mongoose, MongoDB, Quill JS, Firebase",
     "description": "A full-featured blog application that allows users to view a list of blog posts, read individual blog posts, create new blog posts, and interact with the content using Next.js and React.",
     "img": "https://i.ibb.co/DPXwwq2/Screen-Shot-Tool-20230614001856.png",
     "imga": "https://i.ibb.co/qWm149F/Screen-Shot-Tool-20230614002945.png",
